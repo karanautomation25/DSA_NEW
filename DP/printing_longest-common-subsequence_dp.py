@@ -39,7 +39,3 @@ Y = "GXTXAYB"
 m = len(X)
 n = len(Y)
 lcs(X, Y, m, n)
-
-Neetcode - best
-Aditya Verma - DP
-Striver
